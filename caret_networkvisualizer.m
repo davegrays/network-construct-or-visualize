@@ -17,7 +17,7 @@ function[] = caret_networkvisualizer(ROIinfofile,ROIinfofile_int,conmat,modules,
 %   to include them
 %
 %   EXAMPLE:
-%   caret_filemaker('RM_ROI_info_file.txt',RM_SCmat,ci,'RMviz','hold',0,1)
+%   caret_filemaker('RM_ROI_info_file.txt','RM_ROI_info_file_int.txt',RM_SCmat,ci,'RMviz','hold',0,1)
 %
 
 %% prepare script
